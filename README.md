@@ -8,5 +8,5 @@ Always keep track of the daily essential items you have at home with Pantryly.
 3. Delete the items you no longer have or need
 4. The Grocery List section lets you add and delete items from your grocery list. You can also share your grocery list through the share feature on the top-right corner of the Grocery List tab.
 
-Download the app from Google Play: play.google.com/store/apps/details?id=com.anirudh.kiran.Pantryly
+Download the app from Google Play: https://play.google.com/store/apps/details?id=com.anirudh.kiran.Pantryly
 
